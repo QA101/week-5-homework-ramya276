@@ -3,7 +3,7 @@
  * 
  * TODO write the syntax for the Manager class to Extend the Employee class
  */
-public class Manager{
+public class Manager extends Employee{
 	//maxSize is the total amount of employees that this manager can support
 	int maxSize;
 	

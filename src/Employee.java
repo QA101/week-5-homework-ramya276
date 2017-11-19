@@ -22,7 +22,7 @@ public class Employee {
 	 * TODO Override the toString method to return the name and salary of the employee
 	 */
 	public String toString() {
-		return "";
+		return name+", "+salary;
 	}
 
 }
